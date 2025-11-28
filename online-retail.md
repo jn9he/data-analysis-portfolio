@@ -1,4 +1,4 @@
-### Online Retail Analytics Dashboard
+### Online Retail Analytics Demo
 
 ##### 
 This dashboard is a portfolio dashboard built to showcase the kind of analysis its possible to be built with just a few tables of online retail data. Combining our data analysis and engineering abilities with clients' field-expertise, we're able to build an intuitive and insightful dashboard that will help the customer to make better decisions based on their data.

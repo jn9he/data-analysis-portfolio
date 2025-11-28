@@ -1,6 +1,6 @@
-# Fashion Supply Chain Sustainability Demo
+### Fashion Supply Chain Sustainability Demo
 
-### This dashboard demonstrates advanced analytics on fashion industry datasets, integrating supply chain logistics, carbon emissions tracking, and sustainability metrics from public sources like the Higg Index and global textile trade data. By combining data engineering skills in Power BI and Python with domain knowledge of sustainable fashion practices, it creates an interactive visualization tool that reveals hidden inefficiencies in material sourcing, manufacturing footprints, and distribution networks—empowering brands to reduce environmental impact while optimizing costs.
+##### This dashboard demonstrates advanced analytics on fashion industry datasets, integrating supply chain logistics, carbon emissions tracking, and sustainability metrics from public sources like the Higg Index and global textile trade data. By combining data engineering skills in Power BI and Python with domain knowledge of sustainable fashion practices, it creates an interactive visualization tool that reveals hidden inefficiencies in material sourcing, manufacturing footprints, and distribution networks—empowering brands to reduce environmental impact while optimizing costs.
 
 
 <img width="1178" height="832" alt="Screenshot 2025-11-27 at 11 19 33 PM" src="https://github.com/user-attachments/assets/bc611462-0b0c-48b8-8060-61eca0588aeb" />
